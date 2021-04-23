@@ -1,4 +1,8 @@
-### Hi there 👋
+# Rendley Arnou ![[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif = 40px]]
+
+## About me
+
+I'm information systems student at [Federal University of Ceará - Campus Quixadá](https://www.quixada.ufc.br/).
 
 <!--
 **rendleyarnou/rendleyarnou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
