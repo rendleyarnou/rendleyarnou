@@ -1,4 +1,4 @@
-# Rendley Arnou ![[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif = 40px]]
+# Rendley Arnou&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px">
 
 ## About me
 
